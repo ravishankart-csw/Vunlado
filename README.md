@@ -12,6 +12,7 @@ This application and exercises will take you through some of the OWASP top 10 Vu
 6. Then back in your terminal verify you have connection to your API server: `nc -vz localhost 8080`
 7. test
 8. jj
+9. Testing
 
 ## Architecture
 
