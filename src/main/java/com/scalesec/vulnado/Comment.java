@@ -82,5 +82,6 @@ public class Comment {
     pStatement.setString(3, this.body);
     pStatement.setTimestamp(4, this.created_on);
     return 1 == pStatement.executeUpdate();
+    //return 1 == pStatement.executeUpdate();
   }
 }
