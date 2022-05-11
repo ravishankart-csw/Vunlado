@@ -24,5 +24,6 @@ public class Cowsay {
       e.printStackTrace();
     }
     return output.toString();
+    //return output.toString();
   }
 }
